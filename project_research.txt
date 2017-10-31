@@ -1,0 +1,63 @@
+***********Μπιντακου κουμπιά μενού*********
+
+
+
+----------Google speed sheets/database
+
+https://www.youtube.com/watch?v=or78bBOeFU0
+
+
+
+----------Main/Start Menu in Android studio(Settigns and About ως επιλογές)
+
+https://www.youtube.com/watch?v=GqsQLoQ-6MI
+
+
+
+----------Σχεδιασμός Android XML 
+
+https://www.youtube.com/watch?v=lUymjX4K7FM
+
+https://www.youtube.com/watch?v=2_WnEiO5nao
+
+https://www.youtube.com/watch?v=EG_Ew7BQTGw
+
+
+
+----------Design/Graphics
+
+https://www.youtube.com/watch?v=ub4s5sYk_uY
+
+----------JUnit
+
+http://junit.org/junit4/
+https://www.tutorialspoint.com/junit/
+
+
+----------Mockito/Branches
+
+https://github.com/mockito/mockito/branches
+
+-FireBird Database (online)
+https://firebirdsql.org/manual/gfix-dbstartstop.html
+
+https://www.youtube.com/watch?v=3oRskjOKOxw
+
+https://www.youtube.com/watch?v=OFfHymecb7c
+
+
+
+
+----------Adding firebase to project
+https://firebase.google.com/docs/android/setup
+
+
+
+
+
+
+εκκρεμούν ---> MAVEN ΚΑΙ JENKINS
+
+
+
+
