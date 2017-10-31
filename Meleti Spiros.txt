@@ -1,0 +1,13 @@
+Meleti Tou Firebase:
+
+1o: Firebase Introduction
+https://www.youtube.com/watch?v=i-gZAYBMuBs
+
+2o: Connecting Firebase With Android Studio
+https://www.youtube.com/watch?v=YVu_xSzn2u0
+
+3o: Firebase Saving Realtime data
+https://www.youtube.com/watch?v=tOn5HsQPhUY
+
+4o: Firebase Sending Notificaions
+https://www.youtube.com/watch?v=vS9FWxJUrYc
