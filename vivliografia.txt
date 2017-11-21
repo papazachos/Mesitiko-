@@ -1,8 +1,13 @@
-https://github.com/junit-team/junit4/wiki/Getting-started
-https://en.wikipedia.org/wiki/JUnit
-https://en.wikipedia.org/wiki/Mockito
-https://www.youtube.com/watch?v=3K97cDU-k9g
-https://www.youtube.com/watch?v=HsQ9OwKA79s
-https://www.youtube.com/watch?v=Qq7SBMXYVkM
-https://spring.io/guides/gs/consuming-rest-android/
-http://programmerguru.com/android-tutorial/android-restful-webservice-tutorial-how-to-call-restful-webservice-in-android-part-3/
+лекетг:
+Youtube : Use an AsyncTask to add Markers to a GoogleMap in Android
+https://www.youtube.com/watch?v=dr0zEmuDuIk
+https://www.youtube.com/watch?v=eeRXX4HdMEg
+
+Stack OverFlow: 
+https://stackoverflow.com/questions/43681433/how-to-add-markers-in-google-maps
+https://stackoverflow.com/questions/13904651/android-google-maps-v2-how-to-add-marker-with-multiline
+
+
+
+
+
