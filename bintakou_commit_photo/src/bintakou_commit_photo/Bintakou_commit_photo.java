@@ -43,7 +43,7 @@ Button btnIm;
         
     ImStorage = FirebaseStorage.getInstance().getReference();
 
-        btnIm = (Button) findViewById(R.id.btnIm);
+        btnIm = (Button) findViewById(R.id.selectImage);
 
         btnIm.setOnClickListener(new View.OnClickListener() {
             @Override
